@@ -1,0 +1,16 @@
+body
+{
+    /* background-color: lightblue;
+    background-color: yellowgreen; */
+    /* background: -webkit-linear-gradient(left,red,black);
+    background: linear-gradient(to right,red,black); */
+
+    /* background: -webkit-linear-gradient(left,yellowgreen,black);
+    background: linear-gradient(to right,yellowgreen,black); */
+    width: 100%;
+    height: 578px;
+    background-color:yellowgreen;
+    background: -webkit-linear-gradient(yellowgreen,black);
+    background: linear-gradient(yellowgreen,black);
+
+}
